@@ -1,0 +1,407 @@
+Testcase 1:
+Number of selected items: 4
+Total Value: 58
+Item 2: Weight = 7, Value = 7
+Item 3: Weight = 1, Value = 22
+Item 4: Weight = 3, Value = 23
+Item 5: Weight = 3, Value = 6
+
+Testcase 2:
+Number of selected items: 4
+Total Value: 90
+Item 2: Weight = 9, Value = 27
+Item 3: Weight = 8, Value = 12
+Item 4: Weight = 8, Value = 28
+Item 5: Weight = 3, Value = 23
+
+Testcase 3:
+Number of selected items: 4
+Total Value: 130
+Item 1: Weight = 4, Value = 35
+Item 3: Weight = 7, Value = 32
+Item 4: Weight = 4, Value = 34
+Item 5: Weight = 8, Value = 29
+
+Testcase 4:
+Number of selected items: 4
+Total Value: 46
+Item 2: Weight = 10, Value = 7
+Item 3: Weight = 1, Value = 14
+Item 5: Weight = 2, Value = 9
+
+Testcase 5:
+Number of selected items: 6
+Total Value: 197
+Item 2: Weight = 5, Value = 15
+Item 3: Weight = 11, Value = 51
+Item 4: Weight = 7, Value = 21
+Item 6: Weight = 7, Value = 15
+Item 7: Weight = 8, Value = 21
+Item 8: Weight = 4, Value = 25
+Item 9: Weight = 1, Value = 49
+
+Testcase 6:
+Number of selected items: 7
+Total Value: 274
+Item 1: Weight = 5, Value = 18
+Item 2: Weight = 6, Value = 55
+Item 3: Weight = 2, Value = 20
+Item 4: Weight = 6, Value = 30
+Item 7: Weight = 9, Value = 27
+Item 8: Weight = 3, Value = 58
+Item 9: Weight = 6, Value = 8
+Item 10: Weight = 10, Value = 58
+
+Testcase 7:
+Number of selected items: 8
+Total Value: 236
+Item 1: Weight = 11, Value = 20
+Item 2: Weight = 3, Value = 38
+Item 3: Weight = 5, Value = 15
+Item 4: Weight = 2, Value = 17
+Item 5: Weight = 2, Value = 26
+Item 7: Weight = 6, Value = 41
+Item 8: Weight = 2, Value = 37
+Item 10: Weight = 2, Value = 42
+
+Testcase 8:
+Number of selected items: 7
+Total Value: 202
+Item 1: Weight = 7, Value = 25
+Item 2: Weight = 7, Value = 19
+Item 3: Weight = 6, Value = 15
+Item 5: Weight = 3, Value = 46
+Item 6: Weight = 10, Value = 21
+Item 8: Weight = 5, Value = 58
+Item 9: Weight = 8, Value = 18
+
+Testcase 9:
+Number of selected items: 15
+Total Value: 3842
+Item 1: Weight = 38, Value = 252
+Item 2: Weight = 46, Value = 212
+Item 3: Weight = 1, Value = 150
+Item 4: Weight = 43, Value = 242
+Item 6: Weight = 39, Value = 277
+Item 7: Weight = 3, Value = 136
+Item 8: Weight = 10, Value = 390
+Item 9: Weight = 36, Value = 236
+Item 10: Weight = 17, Value = 276
+Item 11: Weight = 9, Value = 297
+Item 12: Weight = 48, Value = 243
+Item 13: Weight = 28, Value = 183
+Item 14: Weight = 19, Value = 95
+Item 16: Weight = 30, Value = 269
+Item 17: Weight = 26, Value = 304
+Item 18: Weight = 39, Value = 337
+
+Testcase 10:
+Number of selected items: 15
+Total Value: 3203
+Item 1: Weight = 26, Value = 360
+Item 2: Weight = 42, Value = 212
+Item 4: Weight = 25, Value = 100
+Item 5: Weight = 23, Value = 132
+Item 6: Weight = 36, Value = 122
+Item 7: Weight = 16, Value = 271
+Item 8: Weight = 12, Value = 166
+Item 9: Weight = 15, Value = 351
+Item 10: Weight = 45, Value = 93
+Item 11: Weight = 21, Value = 226
+Item 12: Weight = 42, Value = 237
+Item 13: Weight = 28, Value = 311
+Item 14: Weight = 20, Value = 187
+Item 18: Weight = 4, Value = 208
+Item 20: Weight = 16, Value = 143
+
+Testcase 11:
+Number of selected items: 13
+Total Value: 2601
+Item 1: Weight = 26, Value = 119
+Item 3: Weight = 35, Value = 155
+Item 4: Weight = 19, Value = 127
+Item 9: Weight = 33, Value = 224
+Item 10: Weight = 29, Value = 109
+Item 12: Weight = 27, Value = 206
+Item 15: Weight = 9, Value = 159
+Item 16: Weight = 10, Value = 99
+Item 18: Weight = 41, Value = 280
+Item 19: Weight = 11, Value = 362
+Item 20: Weight = 50, Value = 137
+
+Testcase 12:
+Number of selected items: 14
+Total Value: 3253
+Item 1: Weight = 20, Value = 229
+Item 2: Weight = 27, Value = 18
+Item 3: Weight = 1, Value = 214
+Item 4: Weight = 37, Value = 275
+Item 6: Weight = 4, Value = 305
+Item 7: Weight = 20, Value = 191
+Item 9: Weight = 45, Value = 322
+Item 10: Weight = 7, Value = 2
+Item 11: Weight = 20, Value = 77
+Item 15: Weight = 13, Value = 144
+Item 16: Weight = 25, Value = 110
+Item 17: Weight = 50, Value = 246
+Item 18: Weight = 17, Value = 159
+
+Testcase 13:
+Number of selected items: 19
+Total Value: 8205
+Item 2: Weight = 46, Value = 428
+Item 3: Weight = 12, Value = 441
+Item 4: Weight = 33, Value = 217
+Item 6: Weight = 26, Value = 419
+Item 7: Weight = 31, Value = 343
+Item 8: Weight = 7, Value = 504
+Item 9: Weight = 43, Value = 178
+Item 10: Weight = 18, Value = 38
+Item 11: Weight = 28, Value = 426
+Item 12: Weight = 29, Value = 409
+Item 13: Weight = 13, Value = 403
+Item 16: Weight = 15, Value = 162
+Item 21: Weight = 48, Value = 298
+Item 22: Weight = 40, Value = 251
+Item 23: Weight = 32, Value = 199
+Item 24: Weight = 19, Value = 172
+Item 25: Weight = 31, Value = 559
+Item 26: Weight = 41, Value = 418
+Item 27: Weight = 4, Value = 515
+Item 28: Weight = 10, Value = 347
+Item 29: Weight = 40, Value = 576
+Item 30: Weight = 10, Value = 517
+
+Testcase 14:
+Number of selected items: 20
+Total Value: 8190
+Item 2: Weight = 41, Value = 247
+Item 4: Weight = 35, Value = 157
+Item 6: Weight = 10, Value = 161
+Item 7: Weight = 13, Value = 101
+Item 8: Weight = 30, Value = 323
+Item 10: Weight = 32, Value = 596
+Item 11: Weight = 43, Value = 372
+Item 12: Weight = 21, Value = 378
+Item 15: Weight = 48, Value = 535
+Item 18: Weight = 4, Value = 240
+Item 20: Weight = 7, Value = 529
+Item 21: Weight = 47, Value = 571
+Item 23: Weight = 18, Value = 271
+Item 24: Weight = 43, Value = 398
+Item 25: Weight = 12, Value = 212
+Item 26: Weight = 23, Value = 528
+Item 27: Weight = 12, Value = 550
+Item 28: Weight = 29, Value = 625
+Item 29: Weight = 28, Value = 170
+Item 30: Weight = 13, Value = 142
+
+Testcase 15:
+Number of selected items: 19
+Total Value: 8065
+Item 2: Weight = 4, Value = 246
+Item 3: Weight = 41, Value = 503
+Item 4: Weight = 41, Value = 232
+Item 7: Weight = 23, Value = 127
+Item 9: Weight = 14, Value = 509
+Item 10: Weight = 29, Value = 155
+Item 11: Weight = 3, Value = 326
+Item 13: Weight = 25, Value = 255
+Item 14: Weight = 8, Value = 141
+Item 15: Weight = 37, Value = 367
+Item 16: Weight = 17, Value = 461
+Item 17: Weight = 41, Value = 462
+Item 18: Weight = 50, Value = 358
+Item 21: Weight = 29, Value = 561
+Item 22: Weight = 33, Value = 301
+Item 26: Weight = 8, Value = 320
+Item 27: Weight = 32, Value = 218
+Item 28: Weight = 39, Value = 256
+Item 30: Weight = 6, Value = 396
+
+Testcase 16:
+Number of selected items: 21
+Total Value: 8398
+Item 1: Weight = 45, Value = 317
+Item 2: Weight = 33, Value = 512
+Item 3: Weight = 12, Value = 190
+Item 4: Weight = 32, Value = 524
+Item 5: Weight = 11, Value = 223
+Item 6: Weight = 18, Value = 539
+Item 8: Weight = 30, Value = 268
+Item 10: Weight = 1, Value = 549
+Item 11: Weight = 30, Value = 328
+Item 12: Weight = 49, Value = 528
+Item 15: Weight = 20, Value = 238
+Item 17: Weight = 22, Value = 227
+Item 18: Weight = 46, Value = 489
+Item 19: Weight = 22, Value = 332
+Item 20: Weight = 24, Value = 452
+Item 21: Weight = 42, Value = 457
+Item 22: Weight = 38, Value = 139
+Item 23: Weight = 12, Value = 155
+Item 24: Weight = 9, Value = 145
+Item 25: Weight = 5, Value = 378
+Item 26: Weight = 8, Value = 508
+
+Testcase 17:
+Number of selected items: 33
+Total Value: 20019
+Item 1: Weight = 46, Value = 824
+Item 2: Weight = 13, Value = 216
+Item 3: Weight = 20, Value = 467
+Item 4: Weight = 9, Value = 103
+Item 7: Weight = 5, Value = 701
+Item 8: Weight = 5, Value = 351
+Item 9: Weight = 39, Value = 314
+Item 10: Weight = 10, Value = 517
+Item 11: Weight = 43, Value = 365
+Item 12: Weight = 4, Value = 778
+Item 13: Weight = 30, Value = 165
+Item 14: Weight = 23, Value = 498
+Item 15: Weight = 47, Value = 579
+Item 16: Weight = 48, Value = 608
+Item 17: Weight = 16, Value = 409
+Item 19: Weight = 18, Value = 550
+Item 20: Weight = 23, Value = 56
+Item 21: Weight = 33, Value = 604
+Item 22: Weight = 40, Value = 237
+Item 23: Weight = 20, Value = 339
+Item 25: Weight = 26, Value = 467
+Item 26: Weight = 46, Value = 478
+Item 27: Weight = 46, Value = 650
+Item 28: Weight = 8, Value = 827
+Item 29: Weight = 35, Value = 841
+Item 31: Weight = 15, Value = 453
+Item 32: Weight = 27, Value = 281
+Item 33: Weight = 14, Value = 286
+Item 36: Weight = 45, Value = 639
+Item 37: Weight = 2, Value = 674
+Item 39: Weight = 26, Value = 774
+Item 40: Weight = 36, Value = 597
+Item 41: Weight = 12, Value = 646
+Item 43: Weight = 28, Value = 502
+Item 44: Weight = 23, Value = 289
+Item 46: Weight = 17, Value = 527
+Item 48: Weight = 22, Value = 66
+Item 49: Weight = 18, Value = 600
+Item 50: Weight = 22, Value = 575
+
+Testcase 18:
+Number of selected items: 38
+Total Value: 18445
+Item 1: Weight = 11, Value = 421
+Item 3: Weight = 29, Value = 620
+Item 4: Weight = 15, Value = 150
+Item 5: Weight = 45, Value = 338
+Item 6: Weight = 8, Value = 781
+Item 7: Weight = 38, Value = 690
+Item 8: Weight = 5, Value = 800
+Item 9: Weight = 8, Value = 243
+Item 10: Weight = 16, Value = 675
+Item 11: Weight = 31, Value = 327
+Item 12: Weight = 9, Value = 163
+Item 17: Weight = 37, Value = 511
+Item 18: Weight = 41, Value = 808
+Item 19: Weight = 3, Value = 440
+Item 21: Weight = 14, Value = 126
+Item 22: Weight = 2, Value = 710
+Item 23: Weight = 45, Value = 140
+Item 24: Weight = 40, Value = 776
+Item 25: Weight = 11, Value = 395
+Item 26: Weight = 20, Value = 716
+Item 27: Weight = 6, Value = 46
+Item 28: Weight = 1, Value = 74
+Item 30: Weight = 26, Value = 456
+Item 31: Weight = 44, Value = 372
+Item 32: Weight = 18, Value = 367
+Item 33: Weight = 19, Value = 133
+Item 35: Weight = 16, Value = 673
+Item 36: Weight = 48, Value = 476
+Item 37: Weight = 2, Value = 156
+Item 38: Weight = 6, Value = 482
+Item 40: Weight = 23, Value = 649
+Item 41: Weight = 6, Value = 177
+Item 42: Weight = 35, Value = 660
+Item 43: Weight = 33, Value = 621
+Item 45: Weight = 2, Value = 636
+Item 46: Weight = 34, Value = 535
+Item 47: Weight = 45, Value = 351
+Item 50: Weight = 10, Value = 431
+
+Testcase 19:
+Number of selected items: 37
+Total Value: 21959
+Item 1: Weight = 50, Value = 788
+Item 3: Weight = 17, Value = 158
+Item 4: Weight = 28, Value = 687
+Item 6: Weight = 48, Value = 590
+Item 7: Weight = 21, Value = 212
+Item 8: Weight = 36, Value = 722
+Item 9: Weight = 9, Value = 535
+Item 10: Weight = 49, Value = 703
+Item 12: Weight = 49, Value = 696
+Item 14: Weight = 35, Value = 885
+Item 15: Weight = 47, Value = 797
+Item 16: Weight = 19, Value = 827
+Item 17: Weight = 8, Value = 398
+Item 18: Weight = 31, Value = 191
+Item 20: Weight = 17, Value = 847
+Item 22: Weight = 32, Value = 456
+Item 23: Weight = 1, Value = 40
+Item 24: Weight = 8, Value = 147
+Item 25: Weight = 37, Value = 542
+Item 30: Weight = 25, Value = 507
+Item 31: Weight = 20, Value = 724
+Item 32: Weight = 8, Value = 700
+Item 33: Weight = 22, Value = 415
+Item 35: Weight = 24, Value = 659
+Item 36: Weight = 29, Value = 881
+Item 37: Weight = 22, Value = 364
+Item 39: Weight = 4, Value = 659
+Item 40: Weight = 35, Value = 221
+Item 41: Weight = 18, Value = 413
+Item 42: Weight = 32, Value = 58
+Item 43: Weight = 4, Value = 825
+Item 44: Weight = 3, Value = 360
+Item 46: Weight = 4, Value = 272
+Item 48: Weight = 50, Value = 863
+Item 49: Weight = 4, Value = 728
+
+Testcase 20:
+Number of selected items: 36
+Total Value: 18811
+Item 1: Weight = 4, Value = 286
+Item 2: Weight = 36, Value = 239
+Item 3: Weight = 35, Value = 591
+Item 4: Weight = 16, Value = 784
+Item 6: Weight = 35, Value = 546
+Item 7: Weight = 4, Value = 769
+Item 9: Weight = 4, Value = 598
+Item 10: Weight = 24, Value = 500
+Item 11: Weight = 23, Value = 273
+Item 12: Weight = 50, Value = 846
+Item 13: Weight = 33, Value = 882
+Item 14: Weight = 10, Value = 347
+Item 17: Weight = 10, Value = 623
+Item 18: Weight = 16, Value = 288
+Item 20: Weight = 25, Value = 599
+Item 21: Weight = 32, Value = 595
+Item 22: Weight = 2, Value = 592
+Item 23: Weight = 45, Value = 336
+Item 24: Weight = 2, Value = 99
+Item 25: Weight = 40, Value = 64
+Item 26: Weight = 44, Value = 135
+Item 27: Weight = 23, Value = 261
+Item 28: Weight = 3, Value = 53
+Item 29: Weight = 14, Value = 203
+Item 31: Weight = 28, Value = 628
+Item 32: Weight = 4, Value = 392
+Item 38: Weight = 2, Value = 406
+Item 39: Weight = 28, Value = 912
+Item 40: Weight = 27, Value = 784
+Item 43: Weight = 50, Value = 394
+Item 44: Weight = 21, Value = 893
+Item 47: Weight = 35, Value = 200
+Item 49: Weight = 35, Value = 599
+Item 50: Weight = 20, Value = 299
