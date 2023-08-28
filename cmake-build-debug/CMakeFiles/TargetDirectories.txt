@@ -1,3 +1,0 @@
-D:/My Home/Courses/#My Faculty/Fourth Level/First Semester/Soft Computing/Assignments/Assignment 1/KnapsackProblem/cmake-build-debug/CMakeFiles/KnapsackProblem.dir
-D:/My Home/Courses/#My Faculty/Fourth Level/First Semester/Soft Computing/Assignments/Assignment 1/KnapsackProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/My Home/Courses/#My Faculty/Fourth Level/First Semester/Soft Computing/Assignments/Assignment 1/KnapsackProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
