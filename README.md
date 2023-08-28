@@ -25,13 +25,13 @@ The Genetic Algorithm implemented in this program follows these key steps:
 
 3. **Individual Evaluation**: The fitness of each solution in the population is evaluated based on its total value. The fitness function calculates the total value of the selected items in the knapsack.
 
-4. **Selection**: The selection process, known as rank selection, chooses the parent solutions with a higher probability of selection based on their rank in the population. Solutions with higher fitness have a better chance of being selected for reproduction.
+4. **Selection**: The selection process, known as roulette whale selection, chooses the parent solutions with a higher probability of selection based on their rank in the population. Solutions with higher fitness have a better chance of being selected for reproduction.
 
 5. **Crossover**: The crossover operation combines genetic material from two parent solutions to create offspring solutions. The program uses a one-point crossover technique to create new solutions.
 
 6. **Mutation**: The mutation operation introduces random changes in the offspring solutions to maintain diversity in the population. The mutation rate is a user-defined parameter that determines the probability of a gene being flipped.
 
-7. **Reproduction**: The new offspring solutions replace the least fit solutions in the population, ensuring the population size remains constant.
+7. **Reproduction**: The new offspring solutions replace the previous generation solutions in the population, ensuring the population size remains constant.
 
 8. **Termination**: The algorithm continues iterating through the steps mentioned above for a specified number of generations or until a termination condition is met. In this program, the termination condition is the completion of a fixed number of iterations (e.g., `numOfIterations`).
 
